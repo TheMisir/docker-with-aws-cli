@@ -1,2 +1,2 @@
 FROM tiangolo/docker-with-compose
-pip install awscli
+RUN pip install awscli
